@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-// HARDCODE THIS for a moment to confirm the connection works
+
 const API_BASE = "https://creditiq-backend-ot5n.onrender.com";
 
 const api = axios.create({
